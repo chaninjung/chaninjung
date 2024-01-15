@@ -13,8 +13,9 @@ DX Engineer using Python across various industries
 Computer Vision
 Generative AI
 Big Data Analytics for Smart Factories
-<br/>
 
+<br/>
+<br/>
 
 ### 😄 It's Me 😄
 
