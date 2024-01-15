@@ -1,5 +1,6 @@
 
-![그라데이션 헤더](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ChanIn Jung&fontSize=65&fontColor=auto&descAlign=50&fontAlign=50&animation=twinkling&color=gradient:linear-90deg-rgba(255,182,193,1)-rgba(138,43,226,1)-rgba(135,206,250
+![그라데이션 헤더](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ChanIn Jung&fontSize=65&fontColor=auto&descAlign=50&fontAlign=50&animation=twinkling&color=gradient:linear-90deg-rgba(255,182,193,1)-rgba(138,43,226,1)-rgba(135,206,250,1))
+
 
 
 
