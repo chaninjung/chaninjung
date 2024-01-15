@@ -10,8 +10,8 @@ HVAC pipe line Designer using CAD in Construction industry
 DX Engineer using Python across various industries
 
 ### :bulb: Interest :bulb:
-Computer Vision
-Generative AI
+Computer Vision <br/>
+Generative AI <br/>
 Big Data Analytics for Smart Factories
 
 <br/>
