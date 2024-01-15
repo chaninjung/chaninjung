@@ -5,13 +5,13 @@
 
 ### :office: Experience :office:
 
-### Had Worked for
+# Had Worked for
 HVAC pipe line Designer using CAD in Construction industry
 
-### Looking for job opportunities as
+# Looking for job opportunities as
 DX Engineer using Python across various industries
 
-### Interest
+# Interest
 Computer Vision <br/>
 Generative AI <br/>
 Big Data Analytics for Smart Factories
