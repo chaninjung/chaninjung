@@ -1,6 +1,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChanIn Jung&fontSize=45&fontAlign=80&fontAlignY=40&color=gradient)
 
+<div align="center">
 
 ### :office: Had Worked for
 - HVAC pipe line Designer using CAD in Construction industry 
