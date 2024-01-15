@@ -15,6 +15,8 @@
 - Big Data Analytics for Smart Factories
 <br/>
 
+<div align="center">
+
 ### 🌹 It's Me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://githib.com/chaninjung)](https://github.com/chaninjung)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaninjung7@gmail.com)](mailto:snugyun01@gmail.com)
 
