@@ -1,5 +1,6 @@
 
-![그라데이션 헤더](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ChanIn Jung&fontSize=65&fontColor=2E2E2E&descAlign=50&fontAlign=50&animation=twinkling&color=gradient:linear-90deg-rgba(255,218,185,1)-rgba(138,43,226,1)-rgba(135,206,250,1))
+![그라데이션 헤더](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ChanIn Jung&fontSize=65&fontColor=2E2E2E&descAlign=50&fontAlign=50&animation=twinkling&color=gradient:linear-90deg-rgba(255,182,193,1)-rgba(138,43,226,1)-rgba(135,206,250,1))
+
 
 ### :office: Had Worked for
 - HVAC pipe line Designer using CAD in Construction industry 
