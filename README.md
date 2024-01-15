@@ -15,7 +15,6 @@ Generative AI
 Big Data Analytics for Smart Factories
 <br/>
 
-<div align="center">
 
 ### 😄 It's Me 😄
 
