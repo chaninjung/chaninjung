@@ -9,6 +9,10 @@
 - Generative AI
 - Big Data Analytics for Smart Factories
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chaninjung.github.io/)](https://chaninjung.github.io/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaninjung7@gmail.com)](mailto:snugyun01@gmail.com)
+
 <!--
 **chaninjung/chaninjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
