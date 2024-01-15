@@ -1,10 +1,10 @@
 ### :office: Had Worked for
 - HVAC pipe line Designer using CAD in Construction industry 
 
-### Looking for job opportunities as
+### :mag_right: Looking for job opportunities as
 - DX Engineer using Python across various industries
 
-### Interest
+### :bulb: Interest
 - Computer Vision
 - Generative AI
 - Big Data Analytics for Smart Factories
