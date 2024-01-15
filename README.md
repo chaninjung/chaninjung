@@ -5,7 +5,9 @@
 - DX Engineer using Python across various industries
 
 ### Interest
-
+- Computer Vision
+- Generative AI
+- Big Data Analytics for Smart Factories
 
 <!--
 **chaninjung/chaninjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
