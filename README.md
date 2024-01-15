@@ -1,10 +1,11 @@
-### Hi there 👋
+### Had Worked for
+- HVAC pipe line Designer using CAD in Construction industry 
 
-### 3
+### Looking for job opportunities as
+- DX Engineer using Python across various industries
 
-## 2
+### Interest
 
-# 1
 
 <!--
 **chaninjung/chaninjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
