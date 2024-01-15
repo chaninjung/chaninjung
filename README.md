@@ -16,6 +16,7 @@ Computer Vision <br/>
 Generative AI <br/>
 Big Data Analytics for Smart Factories
 
+<br>
 
 # 😄 It's Me 😄
 
