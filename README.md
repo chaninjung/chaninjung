@@ -4,15 +4,15 @@
 <div align="center">
 
 ### :office: Had Worked for :office:
-- HVAC pipe line Designer using CAD in Construction industry
+HVAC pipe line Designer using CAD in Construction industry
 
 ### :mag_right: Looking for job opportunities as :mag_right:
-- DX Engineer using Python across various industries
+DX Engineer using Python across various industries
 
 ### :bulb: Interest :bulb:
-- Computer Vision
-- Generative AI
-- Big Data Analytics for Smart Factories
+Computer Vision
+Generative AI
+Big Data Analytics for Smart Factories
 <br/>
 
 <div align="center">
