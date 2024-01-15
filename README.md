@@ -1,15 +1,15 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChanIn Jung&fontSize=45&fontAlign=80&fontAlignY=40&color=gradient)
 
-### :office: Had Worked for
+### :office: Had Worked for :office:
 - HVAC pipe line Designer using CAD in Construction industry
 <br/>
 
-### :mag_right: Looking for job opportunities as
+### :mag_right: Looking for job opportunities as :mag_right:
 - DX Engineer using Python across various industries
 <br/>
 
-### :bulb: Interest
+### :bulb: Interest :bulb:
 - Computer Vision
 - Generative AI
 - Big Data Analytics for Smart Factories
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🌹 It's Me
+### 😄 It's Me 😄
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://githib.com/chaninjung)](https://github.com/chaninjung)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaninjung7@gmail.com)](mailto:snugyun01@gmail.com)
 
