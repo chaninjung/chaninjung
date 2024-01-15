@@ -6,7 +6,7 @@
 ### :office: Had Worked for :office:
 HVAC pipe line Designer using CAD in Construction industry
 
-_____
+
 
 ### :mag_right: Looking for job opportunities as :mag_right:
 DX Engineer using Python across various industries
@@ -18,6 +18,7 @@ Big Data Analytics for Smart Factories
 
 <br/>
 <br/>
+_____
 
 ### 😄 It's Me 😄
 
