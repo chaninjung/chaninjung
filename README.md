@@ -2,7 +2,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChanIn Jung&fontSize=45&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### :office: Had Worked for
-- HVAC pipe line Designer using CAD in Construction industry 
+- HVAC pipe line Designer using CAD in Construction industry
+<br/>
 
 ### :mag_right: Looking for job opportunities as
 - DX Engineer using Python across various industries
