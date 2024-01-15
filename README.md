@@ -5,9 +5,7 @@
 
 ### :office: Had Worked for :office:
 HVAC pipe line Designer using CAD in Construction industry
-
-_
-
+__
 ### :mag_right: Looking for job opportunities as :mag_right:
 DX Engineer using Python across various industries
 
