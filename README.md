@@ -21,12 +21,9 @@ Big Data Analytics for Smart Factories
 # 😄 It's Me 😄
 
 <a href = "https://github.com/chaninjung"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="Gmail" src 
-="https://img.shields.io/badge/chaninjung7@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaninjung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Gmail](https://img.shields.io/badge/chaninjung7@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chaninjung7@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaninjung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
